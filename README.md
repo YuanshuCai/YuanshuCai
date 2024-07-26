@@ -1,18 +1,18 @@
 <h1 align="center">HI HI 👋, I'm Yuan</h1>
 <h3 align="center">Software Engineer🌟.</h3>
 
-<br>
+## 😎 About Me:
 
-## 😎 About me
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- ⚡ Code for the brain, swim for the zen -- life's a perfect blend!✌😇
-
-- 👩‍🎓 Passionate about spreading wisdom and soaking up knowledge like a sponge!
-
-<img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif" align = "right"/>
-
-<br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif" style="width: 25%; height: auto;"/>
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🌱 I’m always learning something</li>
+      <li>⚡ Code for the brain, swim for the zen -- life's a perfect blend!✌😇</li>
+      <li>👩‍🎓 Passionate about spreading wisdom and soaking up knowledge like a sponge!</li>
+    </ul>
+  </div>
+</div>
 
 ## 💻 Tech Stack:
 ### Frontend
@@ -36,8 +36,6 @@
 ### Design
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<br>
-
 ## 📊 GitHub  Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanshuCai&layout=compact&theme=dark&bg_color=#808080" alt="Top Languages" style="display: inline-block; margin: 10px;">
@@ -54,9 +52,6 @@
       src="./assets/imgs/medium.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
-<br>
-
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=b3e6ff&style=plastic" alt="Profile Views" />
