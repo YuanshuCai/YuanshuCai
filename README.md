@@ -10,6 +10,8 @@
 
 - 👩‍🎓 Passionate about spreading wisdom and soaking up knowledge like a sponge!
 
+<img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif" align = "right"/>
+
 <br>
 
 ## 💻 Tech Stack:
@@ -30,9 +32,6 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Cloud
-
 
 ### Design
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -61,6 +60,6 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=b3e6ff&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/thank%20you%20for%20swing%20by-b3e6ff" alt="Thanks!" style="margin-left: 10px;" />
+  <img src="https://img.shields.io/badge/thank%20you%20for%20swing%20by-4dc3ff" alt="Thanks!" style="margin-left: 10px;" />
 </div>
 
