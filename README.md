@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yuan</h1>
+<h3 align="center">Software Engineer🌟.</h3>
 
-<!--
-**YuanshuCai/YuanshuCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="right"> 
+  <h3>Profile Views :-</h3>
+  <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=yellowgreen&style=plastic"
+    alt="github-viewer-count" /> 
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" alt="coding-gif" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- ⚡ Fun fact :- Code for the brain, swim for the zen -- life's a perfect blend!✌😇
