@@ -3,14 +3,16 @@
 
 <br>
 
-
+## 😎 About me
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- ⚡ Fun fact :- Code for the brain, swim for the zen -- life's a perfect blend!✌😇
+- ⚡ Code for the brain, swim for the zen -- life's a perfect blend!✌😇
+
+- 👩‍🎓 Passionate about spreading wisdom and soaking up knowledge like a sponge!
 
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Frontend
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +30,9 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Cloud
+
 
 ### Design
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -54,6 +59,7 @@
 <br>
 
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=yellowgreen&style=plastic)
+<p align = "right">
+![Profile Views](https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=#b3e6ff&style=plastic)
+[![Thanks!](https://img.shields.io/badge/thank%20you%20for%20swing%20by-b3e6ff)]
+</p>
