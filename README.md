@@ -3,14 +3,6 @@
 
 <br>
 
-<p align="right"> 
-  <h3>Profile Views :-</h3>
-  <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=yellowgreen&style=plastic"
-    alt="github-viewer-count" /> 
-  </p>
-
-<br>
-
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -31,8 +23,6 @@
 <br>
 
 # 💻 Tech Stack:
-## 💻 Tech Stack
-
 ### Frontend
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,17 +44,16 @@
 ### Design
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
-
 <br>
 
-## 📊 GitHub Contribute Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanshuCai&layout=compact&theme=dark&bg_color=#808080)
+## 📊 GitHub  Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanshuCai&layout=compact&theme=dark&bg_color=#808080" alt="Top Languages" style="display: inline-block; margin: 10px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YuanshuCai&theme=dark" alt="GitHub Streak" style="display: inline-block; margin: 10px;">
+</div>
 
 
-<br>
+## 👀 Profile Views
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuanshuCai&theme=dark)](https://git.io/streak-stats)
-      
-
-[YuanshuCai](https://github.com/YuanshuCai)
+![Profile Views](https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=yellowgreen&style=plastic)
