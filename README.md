@@ -5,8 +5,8 @@
 
 <div>
   <img align = "left" width = 150px alt="piggie-learning" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif"/>
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
+  <div style="flex: 1;  margin-left: 10px; padding-right: 20px;">
+    <ul style="list-style:none">
       <li>🌱 I’m always learning something</li>
       <li>⚡ Code for the brain, swim for the zen -- life's a perfect blend!✌😇</li>
       <li>👩‍🎓 Passionate about spreading wisdom and soaking up knowledge like a sponge!</li>
