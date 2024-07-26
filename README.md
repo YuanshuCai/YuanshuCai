@@ -3,8 +3,8 @@
 
 ## 😎 About Me:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif" style="width: 25%; height: auto;"/>
+<div>
+  <img align = "left" width = 150px alt="piggie-learning" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxwc3htNHcwZXJzZzQ5bjR4a3I1OWpqbzNrODc5ZW9veXduNGF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHufwMDTUi20E/giphy.gif"/>
   <div style="flex: 1; padding-right: 20px;">
     <ul>
       <li>🌱 I’m always learning something</li>
@@ -13,6 +13,10 @@
     </ul>
   </div>
 </div>
+
+<br>
+<br>
+<br>
 
 ## 💻 Tech Stack:
 ### Frontend
