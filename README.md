@@ -11,8 +11,6 @@
 
 <br>
 
-<p><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" alt="coding-gif" /></p>
-
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -33,48 +31,36 @@
 <br>
 
 # 💻 Tech Stack:
-<p align="left"> 
-## Frontend
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/css3.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/html5.svg" alt="html5" width="40" height="40" /> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="./assets/imgs/sass.svg" alt="sass" width="40"height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="./assets/imgs/js.svg" alt="javascript" width="40" height="40" /> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="./assets/imgs/bootstrap.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/nodejs.svg" alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img src="./assets/imgs/react.svg" alt="react" width="40" height="40" /> </a>
-## Backend
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/java.svg" alt="java" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="./assets/imgs/python.svg" alt="python" width="40" height="40" /> </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="./assets/imgs/Golang.svg" alt="golang" width="40" height="40" /></a>  
-## Database
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/mysql.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://azure.microsoft.com/en-ca/products/azure-sql/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/imgs/sql.svg" alt="azure-sql" width="40" height="40" /> </a> 
-## Design
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="./assets/imgs/Adobe-illustrator.svg" alt="illustrator" width="40" height="40" /> </a>
-</p>
+## 💻 Tech Stack
+
+### Frontend
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Design
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+
 
 <br>
 
-<h3>github-contribute-stats :-</h3>
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanshuCai&layout=compact"
-    alt="github-stats" 
-    bg_color=#808080/>
-</p>
+## 📊 GitHub Contribute Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanshuCai&layout=compact&theme=dark&bg_color=#808080)
+
 
 <br>
 
