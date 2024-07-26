@@ -10,18 +10,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yuanshucai/" target="blank"><img align="center"
-      src="./assets/imgs/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-  <a href="https://medium.com/@caicaicaiiii" target="blank"><img align="center"
-      src="./assets/imgs/medium.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-
-<br>
-
 # 💻 Tech Stack:
 ### Frontend
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,6 +40,18 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YuanshuCai&theme=dark" alt="GitHub Streak" style="display: inline-block; margin: 10px;">
 </div>
+
+## ⚛ Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/yuanshucai/" target="blank"><img align="center"
+      src="./assets/imgs/linked-in-alt.svg"
+      alt="linkedin" height="30" width="40" /></a>
+  <a href="https://medium.com/@caicaicaiiii" target="blank"><img align="center"
+      src="./assets/imgs/medium.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+
+<br>
 
 
 ## 👀 Profile Views
