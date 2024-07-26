@@ -60,7 +60,7 @@
 
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=#b3e6ff&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YuanshuCai&label=Profile%20views&color=b3e6ff&style=plastic" alt="Profile Views" />
   <img src="https://img.shields.io/badge/thank%20you%20for%20swing%20by-b3e6ff" alt="Thanks!" style="margin-left: 10px;" />
 </div>
 
